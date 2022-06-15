@@ -1,0 +1,331 @@
+{
+  "data": [{
+      "rating": "compliant",
+      "meta": {
+        "engine": "production-foods",
+        "score": 1.6103313,
+        "id": "00698997809241"
+      },
+      "stores": [
+        "fareway"
+      ],
+      "upc": "00698997809241",
+      "picture": "https://res.cloudinary.com/www-grocerkey-com/f_auto/remote_media_2/338489_large.jpg",
+      "allergens": "Contains: egg, milk.",
+      "fodmap_friendly_tag": "NaN",
+      "price": "4.99",
+      "monash_tag": "NaN",
+      "name": "Udi's Snickerdoodle Cookie",
+      "ingredients": "Dried Cane Syrup, Tapioca Starch, Brown Rice Flour, Butter, Eggs, Potato Starch, Cinnamon, Vanilla Extract, Salt, Xanthan Gum, Baking Soda, Canola Oil.",
+      "links": [
+        "https://shop.fareway.com/059#/product/221419"
+      ],
+      "category": "Frozen",
+      "subcategory": "No Sub-Category",
+      "fig_tag": "NaN",
+      "id": "00698997809241"
+    },
+    {
+      "rating": "compliant",
+      "meta": {
+        "engine": "production-foods",
+        "score": 1.505714,
+        "id": "00016745738429"
+      },
+      "stores": [
+        "kroger",
+        "thrive market",
+        "vitacost",
+        "foodsco",
+        "metromarket",
+        "kingsoopers",
+        "marianos",
+        "food4less",
+        "jaycfoods",
+        "ralphs",
+        "smithsfoodanddrug",
+        "gerbes",
+        "qfc",
+        "pay-less"
+      ],
+      "upc": "00016745738429",
+      "picture": "https://img.thrivemarket.com/store/full/0/1/016745738429-1_1_1.jpg",
+      "allergens": "Does not contain obligatory allergens.",
+      "fodmap_friendly_tag": "NaN",
+      "price": "NaN",
+      "monash_tag": "NaN",
+      "name": "Spice, Cinnamon Sugar Cookie",
+      "ingredients": "Maple Sugar, Saigon Cinnamon",
+      "links": [
+        "https://www.kroger.com/p/primal-palate-organic-spices-sugar-cookie-mix/0001674573842",
+        "https://thrivemarket.com/p/primal-palate-spice-cinnamon-sugar-cookie",
+        "https://www.vitacost.com/primal-palate-organic-spices-cinnamon-sugar-cookie",
+        "https://www.foodsco.net/p/primal-palate-organic-spices-sugar-cookie-mix/0001674573842",
+        "https://www.metromarket.net/p/primal-palate-organic-spices-sugar-cookie-mix/0001674573842",
+        "https://www.kingsoopers.com/p/primal-palate-organic-spices-sugar-cookie-mix/0001674573842",
+        "https://www.marianos.com/p/primal-palate-organic-spices-sugar-cookie-mix/0001674573842",
+        "https://www.food4less.com/p/primal-palate-organic-spices-sugar-cookie-mix/0001674573842",
+        "https://www.jaycfoods.com/p/primal-palate-organic-spices-sugar-cookie-mix/0001674573842",
+        "https://www.ralphs.com/p/primal-palate-organic-spices-sugar-cookie-mix/0001674573842",
+        "https://www.smithsfoodanddrug.com/p/primal-palate-organic-spices-sugar-cookie-mix/0001674573842",
+        "https://www.gerbes.com/p/primal-palate-organic-spices-sugar-cookie-mix/0001674573842",
+        "https://www.qfc.com/p/primal-palate-organic-spices-sugar-cookie-mix/0001674573842",
+        "https://www.pay-less.com/p/primal-palate-organic-spices-sugar-cookie-mix/0001674573842"
+      ],
+      "category": "Baking & Cooking",
+      "subcategory": "Spices & Seasonings",
+      "fig_tag": "NaN",
+      "id": "00016745738429"
+    },
+    {
+      "rating": "compliant",
+      "meta": {
+        "engine": "production-foods",
+        "score": 1.505714,
+        "id": "00876063002042"
+      },
+      "stores": [
+        "foodtown",
+        "piggly wiggly"
+      ],
+      "upc": "00876063002042",
+      "picture": "NaN",
+      "allergens": "NaN",
+      "fodmap_friendly_tag": "NaN",
+      "price": "3.99",
+      "monash_tag": "NaN",
+      "name": "Muscle Milk Cookies & Cream",
+      "ingredients": "Water Calcium Caseinate (Milk Derivative), Milk Protein Isolate, Contains Less than 2% of Sodium Caseinate (Milk Derivative), Soluble Corn Fiber, High Oleic Sunflower Oil, Natural and Artificial Flavor, Cellulose Gel, Tripotassium Phosphate, Mixed Triglycerides, Potassium Chloride, Sunflower Lecithin, Potassium Phosphate, Cellulose Gum, Sodium Polyphosphates, Carrageenan Salt, Sucralose, Acesulfame Potassium, Ascorbic Acid (Vitamin C), Sodium Citrate, Vitamin A Palmitate, Vitamin D3.",
+      "links": [
+        "https://www.foodtown.com/departments/pantry/muscle_milk_cookies_and_cream/p/2464476#!/?department_id=271",
+        "https://www.shopatpigglywiggly.com/shop/pantry/beverages/powdered_drinks_and_mixes/nutrition/ready_to_drink/muscle_milk_non_dairy_genuine_cookies_n_creme_protein_shake_14_oz/p/2464476#!/"
+      ],
+      "category": "Beverages",
+      "subcategory": "No sub-category",
+      "fig_tag": "NaN",
+      "id": "00876063002042"
+    },
+    {
+      "rating": "compliant",
+      "meta": {
+        "engine": "production-foods",
+        "score": 1.4955525,
+        "id": "Rachel_Pauls_Food358"
+      },
+      "stores": [
+        "specialty stores"
+      ],
+      "upc": "Rachel_Pauls_Food358",
+      "picture": "https://www.rachelpaulsfood.com/wp-content/uploads/2020/05/choc-cake-rev-600x646.jpg",
+      "allergens": "Manufacturer did not include an allergen statement.",
+      "fodmap_friendly_tag": "NaN",
+      "price": "10.99",
+      "monash_tag": "NaN",
+      "name": "Chocolate Cake",
+      "ingredients": "SUGAR, BROWN RICE FLOUR, COCO PROCESSED WITH ALKALI, TAPIOCA STARCH, POTATO STARCH, NON-ALUMINUM BAKING POWDER (SODIUM ACID PYROPHOSPHATE, SODIUM BICARBONATE, CORN STARCH, MONOCALCIUM PHOSPHATE), BAKING SODA, SEA SALT, ESPRESSO POWDER, XANTHAN GUM",
+      "links": [
+        "https://www.rachelpaulsfood.com/low-fodmap-products/chocolate-cake/"
+      ],
+      "category": "Snacks",
+      "subcategory": "Cookies & Cakes",
+      "fig_tag": "NaN",
+      "id": "Rachel_Pauls_Food358"
+    },
+    {
+      "rating": "compliant",
+      "meta": {
+        "engine": "production-foods",
+        "score": 1.4955525,
+        "id": "FODILICIOUS348"
+      },
+      "stores": [
+        "specialty stores"
+      ],
+      "upc": "FODILICIOUS348",
+      "picture": "https://44mkr52n7hsp27z04y491gd0-wpengine.netdna-ssl.com/wp-content/uploads/ginger-crunch-24-pack-pic-TINY.jpg",
+      "allergens": "ALLERGY ADVICE\nSee ingredients in bold. Not suitable if you react to Avenin - a protein in oats. Produced and packed in an allergen free facility.",
+      "fodmap_friendly_tag": "True",
+      "price": "0",
+      "monash_tag": "NaN",
+      "name": "COOKIE BUTTONS GINGER CRUNCH 24 PACKS (BACK SOON)",
+      "ingredients": "Gluten Free Plain Flour [Rice, Potato, Tapioca, Maize, Buckwheat], Maple Syrup, Gluten Free Oats, Cocoa Butter, Coconut Sugar, Ground Ginger (1%), Raising Agent [Sodium Bicarbonate], Salt.",
+      "links": [
+        "https://fodilicious.com/product/nutfreesnacks/"
+      ],
+      "category": "Snacks",
+      "subcategory": "Cookies & Cakes",
+      "fig_tag": "NaN",
+      "id": "FODILICIOUS348"
+    },
+    {
+      "rating": "compliant",
+      "meta": {
+        "engine": "production-foods",
+        "score": 1.4955525,
+        "id": "FODILICIOUS345"
+      },
+      "stores": [
+        "specialty stores"
+      ],
+      "upc": "FODILICIOUS345",
+      "picture": "https://44mkr52n7hsp27z04y491gd0-wpengine.netdna-ssl.com/wp-content/uploads/Fodilicious-Cookie-Buttons-Cocoa-Crunch-12-pack.jpg",
+      "allergens": "ALLERGY ADVICE\nSee ingredients in bold.\nProduced and packed in an allergen free facility.",
+      "fodmap_friendly_tag": "True",
+      "price": "0",
+      "monash_tag": "NaN",
+      "name": "COOKIE BUTTONS COCOA CRUNCH 12 PACKS",
+      "ingredients": "Gluten Free Plain Flour [Rice, Potato, Tapioca, Maize, Buckwheat], Maple Syrup, Gluten Free Oats, Cocoa Butter (10%), Coconut Sugar, Reduced Fat Cocoa Powder (7%), Natural Vanilla Flavouring, Raising Agent [Sodium Bicarbonate], Salt.",
+      "links": [
+        "https://fodilicious.com/product/vegan-snacks/"
+      ],
+      "category": "Snacks",
+      "subcategory": "Cookies & Cakes",
+      "fig_tag": "NaN",
+      "id": "FODILICIOUS345"
+    },
+    {
+      "rating": "compliant",
+      "meta": {
+        "engine": "production-foods",
+        "score": 1.4955525,
+        "id": "FODILICIOUS344"
+      },
+      "stores": [
+        "specialty stores"
+      ],
+      "upc": "FODILICIOUS344",
+      "picture": "https://44mkr52n7hsp27z04y491gd0-wpengine.netdna-ssl.com/wp-content/uploads/new-ginger-box-of-6-white-background-2-e1603822864868.png",
+      "allergens": "ALLERGY ADVICE\nSee ingredients in bold. Not suitable if you react to Avenin - a protein in oats. Produced and packed in an allergen free facility.",
+      "fodmap_friendly_tag": "True",
+      "price": "0",
+      "monash_tag": "NaN",
+      "name": "COOKIE BUTTONS GINGER CRUNCH 6 PACKS (BACK SOON)",
+      "ingredients": "Gluten Free Plain Flour [Rice, Potato, Tapioca, Maize, Buckwheat], Maple Syrup, Gluten Free Oats, Cocoa Butter, Coconut Sugar, Ground Ginger (1%), Raising Agent [Sodium Bicarbonate], Salt.",
+      "links": [
+        "https://fodilicious.com/product/fodilicious-cookie-buttons-ginger-crunch/"
+      ],
+      "category": "Snacks",
+      "subcategory": "Cookies & Cakes",
+      "fig_tag": "NaN",
+      "id": "FODILICIOUS344"
+    },
+    {
+      "rating": "compliant",
+      "meta": {
+        "engine": "production-foods",
+        "score": 1.4955525,
+        "id": "00810043790000"
+      },
+      "stores": [
+        "pay-less",
+        "festivalfoods",
+        "sendiks",
+        "centralmarket"
+      ],
+      "upc": "00810043790000",
+      "picture": "https://www.kroger.com/product/images/large/front/0081004379000",
+      "allergens": "Free from Sesame Seeds and Their Derivatives,Wheat and Their Derivatives,Crustaceans and Their Derivatives,Eggs and Their Derivatives,Fish and Their Derivatives,Soybean and its Derivatives,Milk and its Derivatives,Tree Nuts and Their Derivatives,Peanuts and Their Derivatives.",
+      "fodmap_friendly_tag": "NaN",
+      "price": "1.99",
+      "monash_tag": "NaN",
+      "name": "SoChatti™ Complex Peru 72% Cacao Dark Chocolate To Go Pouch",
+      "ingredients": "Cacao Beans, Organic Cane Sugar, Organic Cacao Butter",
+      "links": [
+        "https://www.pay-less.com/p/sochatti-complex-peru-72-cacao-dark-chocolate-to-go-pouch/0081004379000",
+        "https://www.festfoods.com/shop/natural_and_organic/candy/sochatti_chocolate_bar_complex_peru/p/1564405684711024403#!/?department_id=21910591",
+        "https://www.sendiks.com/shop/pantry/snacks_chips_and_dips/packaged_candy/chocolate/sochatti_chocolate_bar_dark_peru/p/1564405684711024403#!/?department_id=2175",
+        "https://centralmarket.com/product/sochatti-complex-peru-dark-chocolate-bar-0-8-oz/"
+      ],
+      "category": "Snacks",
+      "subcategory": "Cookies & Cakes",
+      "fig_tag": "NaN",
+      "id": "00810043790000"
+    },
+    {
+      "rating": "compliant",
+      "standardDietOverrideNotes": [],
+      "meta": {
+        "engine": "production-foods",
+        "score": 1.4955525,
+        "id": "10063783577463"
+      },
+      "stores": [
+        "foodsco",
+        "fredmeyer",
+        "frysfood",
+        "metromarket",
+        "kingsoopers",
+        "marianos",
+        "food4less",
+        "jaycfoods",
+        "ralphs",
+        "smithsfoodanddrug",
+        "bakersplus",
+        "dillons",
+        "gerbes",
+        "citymarket",
+        "qfc",
+        "pay-less"
+      ],
+      "upc": "10063783577463",
+      "picture": "https://www.kroger.com/product/images/large/front/1006378357746",
+      "allergens": "Does not contain obligatory allergens.",
+      "fodmap_friendly_tag": "NaN",
+      "price": "34.99",
+      "monash_tag": "NaN",
+      "name": "Jelina Chocolatier Sea Salt 72% Cacao Organic Dark Chocolate",
+      "ingredients": "Cocoa mass†, cane sugar†, cocoa butter†, sea salt, natural vanilla†.\nFairtrade Cocoa mass, cane sugar, cocoa butter, natural vanilla:",
+      "links": [
+        "https://www.foodsco.net/p/jelina-chocolatier-sea-salt-72-cacao-organic-dark-chocolate/1006378357746",
+        "https://www.fredmeyer.com/p/jelina-chocolatier-sea-salt-72-cacao-organic-dark-chocolate/1006378357746",
+        "https://www.frysfood.com/p/jelina-chocolatier-sea-salt-72-cacao-organic-dark-chocolate/1006378357746",
+        "https://www.metromarket.net/p/jelina-chocolatier-sea-salt-72-cacao-organic-dark-chocolate/1006378357746",
+        "https://www.kingsoopers.com/p/jelina-chocolatier-sea-salt-72-cacao-organic-dark-chocolate/1006378357746",
+        "https://www.marianos.com/p/jelina-chocolatier-sea-salt-72-cacao-organic-dark-chocolate/1006378357746",
+        "https://www.food4less.com/p/jelina-chocolatier-sea-salt-72-cacao-organic-dark-chocolate/1006378357746",
+        "https://www.jaycfoods.com/p/jelina-chocolatier-sea-salt-72-cacao-organic-dark-chocolate/1006378357746",
+        "https://www.ralphs.com/p/jelina-chocolatier-sea-salt-72-cacao-organic-dark-chocolate/1006378357746",
+        "https://www.smithsfoodanddrug.com/p/jelina-chocolatier-sea-salt-72-cacao-organic-dark-chocolate/1006378357746",
+        "https://www.bakersplus.com/p/jelina-chocolatier-sea-salt-72-cacao-organic-dark-chocolate/1006378357746",
+        "https://www.dillons.com/p/jelina-chocolatier-sea-salt-72-cacao-organic-dark-chocolate/1006378357746",
+        "https://www.gerbes.com/p/jelina-chocolatier-sea-salt-72-cacao-organic-dark-chocolate/1006378357746",
+        "https://www.citymarket.com/p/jelina-chocolatier-sea-salt-72-cacao-organic-dark-chocolate/1006378357746",
+        "https://www.qfc.com/p/jelina-chocolatier-sea-salt-72-cacao-organic-dark-chocolate/1006378357746",
+        "https://www.pay-less.com/p/jelina-chocolatier-sea-salt-72-cacao-organic-dark-chocolate/1006378357746"
+      ],
+      "category": "Snacks",
+      "subcategory": "Cookies & Cakes",
+      "fig_tag": "NaN",
+      "id": "10063783577463"
+    },
+    {
+      "rating": "compliant",
+      "meta": {
+        "engine": "production-foods",
+        "score": 1.4955525,
+        "id": "00857776002697"
+      },
+      "stores": [
+        "jewelOsco"
+      ],
+      "upc": "00857776002697",
+      "picture": "https://images.albertsons-media.com/is/image/ABS/960537521?$ecom-pdp-desktop$&defaultImage=Not_Available",
+      "allergens": "NaN",
+      "fodmap_friendly_tag": "NaN",
+      "price": "2.99",
+      "monash_tag": "NaN",
+      "name": "Great Lakes Wave Cut Original Chips - 8 Oz",
+      "ingredients": "Potatoes, Sunflower and or Canola Oil, Sea Salt.",
+      "links": [
+        "https://www.jewelosco.com/shop/product-details.960537521.html"
+      ],
+      "category": "Snacks",
+      "subcategory": "Cookies & Cakes",
+      "fig_tag": "GREEN",
+      "id": "00857776002697"
+    }
+  ],
+  "metadata": {
+    "nextCursor": "c2VhcmNoUGFnZToxLGludHJhUGFnZU9mZnNldDo0NjI="
+  }
+}
